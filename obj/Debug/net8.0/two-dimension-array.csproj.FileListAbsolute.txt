@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\two-dimension-array\bin\Debug\net8.0\two-dimension-array.exe
+C:\Users\Amin\Desktop\C#\two-dimension-array\bin\Debug\net8.0\two-dimension-array.deps.json
+C:\Users\Amin\Desktop\C#\two-dimension-array\bin\Debug\net8.0\two-dimension-array.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\two-dimension-array\bin\Debug\net8.0\two-dimension-array.dll
+C:\Users\Amin\Desktop\C#\two-dimension-array\bin\Debug\net8.0\two-dimension-array.pdb
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\two-dimension-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\two-dimension-array.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\two-dimension-array.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\two-dimension-array.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\two-dimension-array.dll
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\refint\two-dimension-array.dll
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\two-dimension-array.pdb
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\two-dimension-array.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\two-dimension-array\obj\Debug\net8.0\ref\two-dimension-array.dll
